@@ -1,6 +1,5 @@
 # sneaky-local-apps
-A repo tutorial to hide local apps from the add/remove programs windows setting.
-Also worth to mention, for local apps i mean user apps
+A repo tutorial to hide user apps (applications installed with user priviliges) from the add/remove programs settings menu
 
 How to hide, for example, roblox:
   1. open regedit as user -> you can use the open-registry.bat script, it's literally one line and just works (from https://superuser.com/a/981202)
