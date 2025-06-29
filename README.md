@@ -1,4 +1,4 @@
-# sneaky-local-apps
+# hidden-user-apps
 A repo tutorial to hide user apps (applications installed with user priviliges) from the add/remove programs settings menu
 
 How to hide, for example, roblox:
