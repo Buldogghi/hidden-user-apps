@@ -3,7 +3,7 @@ A github repository tutorial to hide ***user-wide installed apps*** from the add
 
 # How to hide app
 Now let's look at how to hide, for example, roblox:
-  1. open regedit as user, download and execute the [open-registry.bat](https://github.com/Buldogghi/hide-user-apps-for-other-users/blob/main/open-regedit.bat) script (made thanks to https://superuser.com/a/981202), and if you don't trust me just look at the file, it's really just one line
+  1. open regedit as user, download and execute the [open-registry.bat](open-regedit.bat) script (made thanks to https://superuser.com/a/981202), and if you don't trust me just look at the file, it's really just one line
   2. go to "Computer\HKEY_CURRENT_USER\Software\Microsoft\Windows\CurrentVersion\Uninstall", 
   3. export the roblox-player key as a .reg file (with right click on the item) in the desktop for example (make sure to do this step, registry tweaks are non reversible!)
   4. delete the roblox-player key from the registry
